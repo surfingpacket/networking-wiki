@@ -24,6 +24,6 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Control: Document Control.md
-  
+  - About: about/about.md
+  - Control: document-control.md
+  - Help: about/help.md
