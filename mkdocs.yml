@@ -3,7 +3,7 @@ site_url: https://yourusername.github.io/networking-wiki/
 
 theme: 
   name: material
-  pallete:
+  palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
@@ -24,3 +24,6 @@ theme:
 
 nav:
   - Home: index.md
+  - About: about.md
+  - Control: Document Control.md
+  
